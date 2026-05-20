@@ -1,9 +1,9 @@
-# bhavana-portfolio
-AI &amp; Machine Learning Portfolio | Data Scientist | Python | TensorFlow | LangChain | RAG Systems | Power BI | Tableau | 4 Internships.
-#  Bhavana AI Portfolio
+
 
 ##  About Me
-Hi! I am **Chintamanipeta Bhavana** — a Data Scientist and AI Engineer with 4 internships and expertise in Machine Learning, Deep Learning, Generative AI and Computer Vision.
+Hi! I am **Chintamanipeta Bhavana** — a Data Scientist and AI Engineer with 4 internships and expertise in Machine Learning, Deep Learning, Generative AI and Computer Vision. 
+AI &amp; Machine Learning Portfolio | Data Scientist | Python | TensorFlow | LangChain | RAG Systems | Power BI | Tableau | 4 Internships.
+#  Bhavana AI Portfolio
 
 ## 🔗 Live Portfolio
 👉 https://dashing-beignet-a9ed66.netlify.app
